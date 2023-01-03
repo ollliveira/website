@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Python & Data Science"
+  site-url: "https://www.ollliveira.com"
+  google-analytics: "G-CSMQX8Z4LT"
+  favicon: ./images/favicon/T-512x512.png
+  search: false
+  navbar:
+    pinned: true
+    background: '#093145'
+    left:
+      - href: index.qmd
+        text: Home
+      - href: blog/index.qmd
+        text: Blog
+  page-footer: 
+    left: 'Built with [Quarto](https://quarto.org/)'
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/ollliveira
+      - icon: github
+        href: https://www.github.com/ollliveira
+
+date-format: 'D MMMM YYYY'
+
+format:
+  html:
+    page-layout: full
+    theme: Yeti
+    css: styles.css
+    fontsize: 0.9em
+    html-math-method: katex
+    toc: true

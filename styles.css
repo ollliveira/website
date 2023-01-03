@@ -1,0 +1,6 @@
+/* formatação dos links incluídos nos arquivos */
+a {
+    color: #1AA7EC;
+    text-decoration: none;
+    /* border-bottom: dotted 1px #A1A3A1; */
+  }

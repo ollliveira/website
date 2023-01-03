@@ -1,0 +1,16 @@
+# arquivos quarto
+/.quarto/
+
+# arquivos firebase
+/.firebase/
+.firebaserc
+firebase.json
+
+# arquivos ipynb_checkpoints
+/.ipynb_checkpoints/
+
+# arquivos html
+/docs/
+
+# arquivos .DS_Store
+/.DS_Store

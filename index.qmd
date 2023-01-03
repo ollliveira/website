@@ -1,0 +1,13 @@
+---
+about:
+  template: marquee
+---
+
+Estou reunindo aqui uma seleção de ferramentas e técnicas úteis para quem deseja aprimorar suas habilidades em análise de dados, utilizando bibliotecas relevantes para realizar operações que acredito serem comuns na rotina de muitos estudandes e profissionais, como aquisição, limpeza e transformação de dados, análise crítica, *machine learning* e visualização, para citar alguns exemplos.
+
+Sou engenheiro por formação, e o Excel é sem dúvida uma de minhas ferramentas de trabalho, no entanto a experiência e a prática têm me mostrado que a fluência em manipulação de dados, através de bibliotecas dedicadas e aprimoradas para esse fim, é um ativo essencial para aqueles que desejam alavancar a produtividade, qualidade e o alcance de suas análises, para tomadas de decisão mais informadas.
+
+Espero que seja de alguma utilidade para estimular os interessados e aqueles que estão iniciando sua trajetória nessa área tão interessante e em constante evolução.
+
+--
+Thiago

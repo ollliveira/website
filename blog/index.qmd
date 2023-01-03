@@ -1,0 +1,13 @@
+---
+title: "Notebooks"
+# description: '<br>'
+listing:
+  contents: notebooks
+  sort: "date desc"
+  type: default
+  categories: numbered
+  sort-ui: true
+  filter-ui: true
+  feed: true
+page-layout: full
+---
